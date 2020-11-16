@@ -1,5 +1,6 @@
 ---
 layout: page 
+root: /es/
 permalink: /es/aio/
 ---
 <script>

@@ -1,8 +1,8 @@
 ---
 layout: reference
 Title: "Reference"
-root: .
-permalink: /reference/
+root: /es/
+permalink: /es/reference/
 ---
 
 ## Resumen de Comandos Básicos

@@ -1,8 +1,8 @@
 ---
 layout: lesson
 title: "La Terminal de Unix"
-root: .  # Is the only page that doesn't follow the pattern /:path/index.html
-permalink: index.html
+root: /es/  # Is the only page that doesn't follow the pattern /:path/index.html
+permalink: /es/index.html
 ---
 
 La terminal de Unix ha existido por más tiempo que la mayoría de sus usuarios.
