@@ -1,4 +1,6 @@
 ---
+layout: page 
+permalink: /es/aio/
 ---
 <script>
   window.onload = function() {

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Discussion"
-permalink: /discuss/
+root: /es/
+permalink: /es/discuss/
 ---
 ## Sopa de letras
 

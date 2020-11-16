@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+root: /es/
+permalink: /es/about/
 ---
 {% include carpentries.html %}

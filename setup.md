@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Preparación
+title: Configuración
+root: /es/
+permalink: /es/setup/
 ---
 
 Para esta lección necesitas descargar unos archivos:

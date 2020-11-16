@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Instructor Notes"
-permalink: /guide/
+title: "Guía del instructor"
+root: /es/
+permalink: /es/guide/
 ---
 
 

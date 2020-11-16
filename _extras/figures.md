@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Figures
-permalink: /figures/
+root: /es/
+permalink: /es/figures/
 ---
 {% include all_figures.html %}
