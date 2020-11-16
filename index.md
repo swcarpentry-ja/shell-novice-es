@@ -1,7 +1,7 @@
 ---
 layout: lesson
 title: "La Terminal de Unix"
-root: /es/  # Is the only page that doesn't follow the pattern /:path/index.html
+root: /es/
 permalink: /es/index.html
 ---
 
