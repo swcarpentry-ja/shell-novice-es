@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "Contributor Code of Conduct"
+title: "Código de Conducta del Colaborador "
+permalink: /es/conduct/
 ---
-As contributors and maintainers of this project,
-we pledge to follow the [Carpentry Code of Conduct][coc].
+Como colaboradores y mantenedores de este proyecto,
+nos comprometemos a seguir el [Código de Conducta de las Carpentries][coc].
 
-Instances of abusive, harassing, or otherwise unacceptable behavior
-may be reported by following our [reporting guidelines][coc-reporting].
+Instancias de comportamiento abusivo, acoso u otro comportamiento inaceptable
+serán denunciadas siguiendo nuestra [guía de reportes][coc-reporting].
 
 {% include links.md %}
