@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Licencias"
-root: .
+root: /es/
+permalink: /es/LICENSE/
 ---
 ### Material didáctico
 

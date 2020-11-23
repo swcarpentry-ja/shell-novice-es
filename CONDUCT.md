@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Código de Conducta del Colaborador "
+root: /es/
 permalink: /es/conduct/
 ---
 Como colaboradores y mantenedores de este proyecto,
